@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/wespotyou/static/css/main.5ac80320.chunk.css",
+    "main.js": "/wespotyou/static/js/main.2a207d5b.chunk.js",
+    "main.js.map": "/wespotyou/static/js/main.2a207d5b.chunk.js.map",
+    "runtime~main.js": "/wespotyou/static/js/runtime~main.23998c19.js",
+    "runtime~main.js.map": "/wespotyou/static/js/runtime~main.23998c19.js.map",
+    "static/css/2.73176426.chunk.css": "/wespotyou/static/css/2.73176426.chunk.css",
+    "static/js/2.27bebe5f.chunk.js": "/wespotyou/static/js/2.27bebe5f.chunk.js",
+    "static/js/2.27bebe5f.chunk.js.map": "/wespotyou/static/js/2.27bebe5f.chunk.js.map",
+    "index.html": "/wespotyou/index.html",
+    "precache-manifest.86a32d55fb6c1740235cfdd81c7e3b75.js": "/wespotyou/precache-manifest.86a32d55fb6c1740235cfdd81c7e3b75.js",
+    "service-worker.js": "/wespotyou/service-worker.js",
+    "static/css/2.73176426.chunk.css.map": "/wespotyou/static/css/2.73176426.chunk.css.map",
+    "static/css/main.5ac80320.chunk.css.map": "/wespotyou/static/css/main.5ac80320.chunk.css.map",
+    "static/media/beauty.mp4": "/wespotyou/static/media/beauty.3641da08.mp4",
+    "static/media/entertainment.mp4": "/wespotyou/static/media/entertainment.4c5e9619.mp4",
+    "static/media/fashion.mp4": "/wespotyou/static/media/fashion.14cda6ed.mp4",
+    "static/media/food.mp4": "/wespotyou/static/media/food.cd68c557.mp4",
+    "static/media/bootstrap.css": "/wespotyou/static/media/glyphicons-halflings-regular.fa277232.woff",
+    "static/media/App.css": "/wespotyou/static/media/jost-regular.9d6614a3.woff",
+    "static/media/latest.mp4": "/wespotyou/static/media/latest.195aadd3.mp4",
+    "static/media/movies.mp4": "/wespotyou/static/media/movies.200bcd71.mp4",
+    "static/media/travel.mp4": "/wespotyou/static/media/travel.a1f18e50.mp4"
+  }
+}
